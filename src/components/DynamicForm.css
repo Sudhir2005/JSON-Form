@@ -1,0 +1,36 @@
+.form-container {
+  background: url('') no-repeat center center fixed;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.is-invalid {
+  border-color: red;
+}
+
+.invalid-feedback {
+  color: red;
+  font-size: 0.875rem;
+}
+
+.alert {
+  margin-top: 1rem;
+}
+.h1{
+  align-items: center;
+  
+}
